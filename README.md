@@ -1,7 +1,7 @@
 ![VisitorCount](https://profile-counter.glitch.me/sushantbaskota2/count.svg) visitors
 ### Hi there 👋 I am Sushant. I am a AWS Certified Developer Associate. I am a Full Stack Developer who loves to work on new technologies and frameworks. 
-- 🔭 I’m currently working on a LeetCode-like website for my senior project with Next.js and MERN stack.
-- 👯 I’m looking for a full-time job after my graduation in May 2021.
+- 🔭 I’m currently learning Spring and microservices architecture.
+- 👯 I’m an Associate Technical Consultant at Perficient under Cloud Platform Solutions. 
 - 📫 How to reach me: <a>sushantbaskota2@gmail.com</a>
 
 
