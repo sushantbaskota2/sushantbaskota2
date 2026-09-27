@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm Sushant — a Software Engineer at Amazon Web Services building distributed systems, cloud infrastructure, and LLM-powered developer tooling.
 
 - 💼 Software Development Engineer II @ AWS (previously SDE I, and Associate Technical Consultant @ Perficient)
-- 🔭 Currently building test infrastructure and agentic-AI tooling on Amazon Bedrock
+- 🔭 Currently building test infrastructure and agentic-AI tooling at EBS
 - 🌱 Exploring agentic AI / LLM tooling for engineering workflows — Bedrock, RAG, MCP, Kiro
 - 🎓 B.S. in Computer Science, University of Mississippi
 - 📫 Reach me at <a href="mailto:sushantbaskota2@gmail.com">sushantbaskota2@gmail.com</a> · [LinkedIn](https://linkedin.com/in/sushantbaskota)
