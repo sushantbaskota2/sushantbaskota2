@@ -1,21 +1,17 @@
 ![VisitorCount](https://profile-counter.glitch.me/sushantbaskota2/count.svg) visitors
-### Hi there 👋 I am Sushant. I am a AWS Certified Developer Associate. I am a Full Stack Developer who loves to work on new technologies and frameworks. 
-- 🔭 I’m currently learning Spring and microservices architecture.
-- 👯 I’m an Associate Technical Consultant at Perficient under Cloud Platform Solutions. 
-- 📫 How to reach me: <a>sushantbaskota2@gmail.com</a>
 
+### Hi there 👋 I'm Sushant — a Software Engineer at Amazon Web Services building distributed systems, cloud infrastructure, and LLM-powered developer tooling.
 
-<!--
-**sushantbaskota2/sushantbaskota2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Software Development Engineer II @ AWS (previously SDE I, and Associate Technical Consultant @ Perficient)
+- 🔭 Currently building test infrastructure and agentic-AI tooling on Amazon Bedrock
+- 🌱 Exploring agentic AI / LLM tooling for engineering workflows — Bedrock, RAG, MCP, Kiro
+- 🎓 B.S. in Computer Science, University of Mississippi
+- 📫 Reach me at <a href="mailto:sushantbaskota2@gmail.com">sushantbaskota2@gmail.com</a> · [LinkedIn](https://linkedin.com/in/sushantbaskota)
 
-Here are some ideas to get you started:
+### Featured
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 [**resume-ci-skill**](https://github.com/sushantbaskota2/resume-ci-skill) — a Claude Code skill that turns a LaTeX resume into a self-building repo: CI compiles it, scores it for ATS-friendliness, and auto-publishes the latest PDF.
+
+### Stack
+
+`AWS (S3 · DynamoDB · Lambda · EC2 · Bedrock · Glue · CDK · ECS/Fargate · CloudFormation)` `Jenkins` `Java` `TypeScript` `Python` `Kotlin` `Golang` `Spring` `Node.js` `MySQL` `MongoDB`
